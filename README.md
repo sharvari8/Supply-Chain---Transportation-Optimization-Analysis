@@ -36,7 +36,7 @@ The primary objective of this dashboard is to identify underutilized vehicle cap
 * Although the overall fill rate is above the target, 47.04% of shipments have a Vehicle Fill Rate below 75%. indicating that a significant number of vehicles are dispatched with unused capacity.
 * Mahindra Logistics, Blue Dart Express, and Allcargo Logistics have the highest Vehicle Fill Rates of 84.08%, 81.32%, and 81.24%, respectively. These transporters are utilizing vehicle capacity more efficiently compared to the others. However, the shipment-level analysis shows that some individual shipments are still below 75%, highlighting opportunities to improve utilization further.
 
-### 3. Business Recommendations
+### 4. Business Recommendations
 * **Improve shipment consolidation:** Smaller shipments going to the same destination or along similar routes can be combined wherever possible. This will help utilize available vehicle capacity more effectively.
 * **Select the appropriate truck size:** Select truck types according to shipment weight and volume to avoid assigning unnecessarily large vehicles.
 * **Improve route planning and scheduling:** Routes with consistently low fill rates should be investigated. Better shipment planning, consolidation, and scheduling can help improve utilization on these routes.
